@@ -1,5 +1,5 @@
 # Computer Programming Projects
-🤜 Projects developed for 'Computer Programming' subject in High School
+😋 Projects developed for 'Computer Programming' subject in High School
 
 ## More Informations
 This was a project developed in High School to learn Java basics concepts with some *frameworks*, but the speaking language was Portuguese 🇧🇷. The projects are divided by the number of the bimester in High School wich the program was developed. Almost all the projects has about 3 CRUD's (Create, Read, Update, Delete) Elements.
